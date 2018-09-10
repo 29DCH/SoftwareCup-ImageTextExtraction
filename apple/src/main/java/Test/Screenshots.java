@@ -51,13 +51,13 @@ public class Screenshots {
     }
 
     public static void main(String[] args) {
-        Screenshots screenshots = new Screenshots(0, 0, 493, 80);
-        screenshots.srcpath = "pictures/1.png";
-        screenshots.subpath = "pictures/1.png";
-        try {
-            screenshots.cut();
-        } catch (IOException e) {
-            e.printStackTrace();
+        Screenshots screenshots = new Screenshots(0, 0, 530, 80);
+            screenshots.srcpath = "D:\\pictures\\5.png";
+            screenshots.subpath = "D:\\pictures\\haha.png";
+            try {
+                screenshots.cut();
+            } catch (IOException e) {
+                e.printStackTrace();
         }
     }
 }

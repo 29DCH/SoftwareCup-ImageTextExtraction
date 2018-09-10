@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.9.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../apple/lib/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/fontbox-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/ghost4j-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/itext-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/jai-imageio-core-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/jbig2-imageio-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/jboss-vfs-3.2.12.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/jcl-over-slf4j-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/jul-to-slf4j-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/lept4j-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/log4j-over-slf4j-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/logback-classic-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/logback-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/pdfbox-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/pdfbox-tools-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/tess4j-3.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apple/lib/xmlgraphics-commons-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

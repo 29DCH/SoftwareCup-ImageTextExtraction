@@ -7,9 +7,7 @@ import java.io.IOException;
 import java.awt.Color;
 
 public class RemoveImageWatermark {
-    public static void binaryImage() throws IOException {
-        String frompath = "pictures/1.png";
-        String topath = "pictures/1.png";
+    public static void binaryImage(String frompath,String topath) throws IOException {
         File file1 = new File(frompath);
         BufferedImage image = ImageIO.read(file1);
         int w=image.getWidth();
@@ -47,6 +45,8 @@ public class RemoveImageWatermark {
     }
     public static void main(String[] args) throws IOException
     {
-        new RemoveImageWatermark().binaryImage();
+            String frompath = "D:\\pictures\\haha.png";
+            String topath = "D:\\pictures\\haha2.png";
+            binaryImage(frompath,topath);
     }
 }
